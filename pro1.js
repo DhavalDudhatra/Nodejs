@@ -7,3 +7,4 @@ console.log("Server is started in http:\192.168.0.0.1:3000");
 
 
 console.log("Hello World!");
+console.log("Hello World data!");
